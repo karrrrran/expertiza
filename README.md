@@ -9,6 +9,10 @@ Expertiza
 
 Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). It is used in select courses at NC State and by professors at several other colleges and universities.
 
+### Wiki Page
+
+http://wiki.expertiza.ncsu.edu/index.php/E1831_OSS_Project_Teal_Email_Notifications_Enhancements
+
 Setup
 -----
 
